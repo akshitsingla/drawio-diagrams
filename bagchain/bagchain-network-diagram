@@ -1,38 +1,154 @@
-<mxfile host="www.draw.io" modified="2019-11-11T21:51:26.366Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="uTuG0X0YlhQ_6rroJjaL" version="12.2.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-11T23:37:47.001Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="cB6PrT4x5n5yjrlcxICt" version="12.2.3" type="github" pages="1">
   <diagram id="rg5gnl-dAUJNq-TbVUUN" name="Page-1">
-    <mxGraphModel dx="1395" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1694" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
+        <mxCell id="p4KMbkjTEGY-6CVukHf_-20" value="" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=1 1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="710" y="480" width="310" height="310" as="geometry"/>
+        </mxCell>
+        <mxCell id="p4KMbkjTEGY-6CVukHf_-19" value="" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=1 1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="670" y="440" width="380" height="380" as="geometry"/>
+        </mxCell>
+        <mxCell id="p4KMbkjTEGY-6CVukHf_-18" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#F59D56;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="744" y="513" width="240" height="254" as="geometry"/>
+        </mxCell>
+        <mxCell id="p4KMbkjTEGY-6CVukHf_-12" value="" style="rounded=1;arcSize=10;dashed=0;fillColor=none;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="761" y="542.5" width="200" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="p4KMbkjTEGY-6CVukHf_-16" value="Amadeus &lt;br&gt;Bagchain Node" style="text;html=1;resizable=0;points=[];autosize=1;align=center;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="815" y="674.5" width="100" height="30" as="geometry"/>
+        </mxCell>
         <mxCell id="p4KMbkjTEGY-6CVukHf_-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="360" height="360" as="geometry"/>
+          <mxGeometry x="60" y="40" width="360" height="360" as="geometry"/>
         </mxCell>
         <mxCell id="p4KMbkjTEGY-6CVukHf_-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="40" width="360" height="360" as="geometry"/>
         </mxCell>
         <mxCell id="p4KMbkjTEGY-6CVukHf_-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="440" width="360" height="360" as="geometry"/>
-        </mxCell>
-        <mxCell id="p4KMbkjTEGY-6CVukHf_-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;imageAspect=0;" vertex="1" parent="1">
-          <mxGeometry x="680" y="440" width="360" height="360" as="geometry"/>
-        </mxCell>
-        <mxCell id="p4KMbkjTEGY-6CVukHf_-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Non-Service_Specific_copy__AWS_Cloud-128.png;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="15" width="50" height="50" as="geometry"/>
+          <mxGeometry x="60" y="440" width="360" height="360" as="geometry"/>
         </mxCell>
         <mxCell id="p4KMbkjTEGY-6CVukHf_-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Non-Service_Specific_copy__AWS_Cloud-128.png;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="415" width="50" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="p4KMbkjTEGY-6CVukHf_-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;imageAspect=0;" vertex="1" parent="1">
-          <mxGeometry x="707.5" y="480" width="305" height="305" as="geometry"/>
-        </mxCell>
-        <mxCell id="p4KMbkjTEGY-6CVukHf_-8" value="us-east-1a" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="730" y="424" width="70" height="20" as="geometry"/>
+        <mxCell id="p4KMbkjTEGY-6CVukHf_-8" value="Availability Zone (us-east-1a)" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="780" y="492" width="170" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="p4KMbkjTEGY-6CVukHf_-9" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.virtual_private_cloud;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="715" y="465" width="45" height="30" as="geometry"/>
+          <mxGeometry x="730" y="462" width="45" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="p4KMbkjTEGY-6CVukHf_-10" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_gateway;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="690" y="600" width="40" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="p4KMbkjTEGY-6CVukHf_-13" value="" style="dashed=0;html=1;shape=mxgraph.aws3.permissions;fillColor=#D9A741;gradientColor=none;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="785" y="522.5" width="30" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="p4KMbkjTEGY-6CVukHf_-14" value="Public Subnet" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="820" y="522.5" width="90" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="p4KMbkjTEGY-6CVukHf_-15" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="821.5" y="573.5" width="76.5" height="93" as="geometry"/>
+        </mxCell>
+        <mxCell id="p4KMbkjTEGY-6CVukHf_-17" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.s3;fillColor=#E05243;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="501.5" y="15" width="76.5" height="93" as="geometry"/>
+        </mxCell>
+        <mxCell id="p4KMbkjTEGY-6CVukHf_-22" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="p4KMbkjTEGY-6CVukHf_-17" target="p4KMbkjTEGY-6CVukHf_-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="546" y="620" as="sourcePoint"/>
+            <mxPoint x="686" y="620" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="540" y="620"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p4KMbkjTEGY-6CVukHf_-23" value="Region" style="text;html=1;resizable=0;points=[];autosize=1;align=center;verticalAlign=top;spacingTop=-4;shadow=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="736" y="430" width="50" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="p4KMbkjTEGY-6CVukHf_-24" value="Internet&lt;br&gt;Gateway" style="text;html=1;resizable=0;points=[];autosize=1;align=center;verticalAlign=top;spacingTop=-4;shadow=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="675" y="642.5" width="60" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="p4KMbkjTEGY-6CVukHf_-25" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="p4KMbkjTEGY-6CVukHf_-10" target="p4KMbkjTEGY-6CVukHf_-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="880" as="sourcePoint"/>
+            <mxPoint x="130" y="830" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p4KMbkjTEGY-6CVukHf_-26" value="Air Europa&lt;br&gt;Bagchain Node" style="text;html=1;resizable=0;points=[];autosize=1;align=center;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="815" y="250" width="100" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="p4KMbkjTEGY-6CVukHf_-27" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.virtual_machine;" vertex="1" parent="1">
+          <mxGeometry x="842.5" y="198" width="44.8" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="p4KMbkjTEGY-6CVukHf_-28" value="Air France&lt;br&gt;Bagchain Node" style="text;html=1;resizable=0;points=[];autosize=1;align=center;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="190" y="250" width="100" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="p4KMbkjTEGY-6CVukHf_-29" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.virtual_machine;" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="198" width="44.8" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="p4KMbkjTEGY-6CVukHf_-30" value="Saudia Airlines&lt;br&gt;Bagchain Node" style="text;html=1;resizable=0;points=[];autosize=1;align=center;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="190" y="657.5" width="100" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="p4KMbkjTEGY-6CVukHf_-31" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.virtual_machine;" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="600" width="44.8" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="p4KMbkjTEGY-6CVukHf_-32" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1" target="p4KMbkjTEGY-6CVukHf_-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="622" as="sourcePoint"/>
+            <mxPoint x="530" y="621.5" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="540" y="622"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p4KMbkjTEGY-6CVukHf_-33" value="Air Europa Network" style="text;html=1;resizable=0;points=[];autosize=1;align=center;verticalAlign=top;spacingTop=-4;shadow=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="695" y="30" width="120" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="p4KMbkjTEGY-6CVukHf_-34" value="Air France Network" style="text;html=1;resizable=0;points=[];autosize=1;align=center;verticalAlign=top;spacingTop=-4;shadow=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="70" y="30" width="120" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="p4KMbkjTEGY-6CVukHf_-35" value="Saudia Airlines Network" style="text;html=1;resizable=0;points=[];autosize=1;align=center;verticalAlign=top;spacingTop=-4;shadow=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="70" y="430" width="140" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="p4KMbkjTEGY-6CVukHf_-38" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1" target="p4KMbkjTEGY-6CVukHf_-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="220" as="sourcePoint"/>
+            <mxPoint x="520" y="100" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="540" y="220"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p4KMbkjTEGY-6CVukHf_-39" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1" source="p4KMbkjTEGY-6CVukHf_-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="220" as="sourcePoint"/>
+            <mxPoint x="680" y="220" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="540" y="220"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p4KMbkjTEGY-6CVukHf_-40" value="Amazon&lt;br&gt;S3 Bucket" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="560" y="93" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="p4KMbkjTEGY-6CVukHf_-42" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=1.009;entryY=0.286;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="p4KMbkjTEGY-6CVukHf_-1" target="p4KMbkjTEGY-6CVukHf_-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="890" as="sourcePoint"/>
+            <mxPoint x="110" y="840" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="500" y="330"/>
+              <mxPoint x="500" y="510"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p4KMbkjTEGY-6CVukHf_-43" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=-0.003;exitY=0.631;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="p4KMbkjTEGY-6CVukHf_-2" target="p4KMbkjTEGY-6CVukHf_-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="272.29999999999995" y="239.47327950788144" as="sourcePoint"/>
+            <mxPoint x="272.29999999999995" y="622.3544790465205" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="500" y="330"/>
+              <mxPoint x="500" y="510"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
