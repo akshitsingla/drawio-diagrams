@@ -1,1 +1,58 @@
-<mxfile host="www.draw.io" modified="2019-11-12T21:17:50.707Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" version="12.2.4" etag="ToN9IdcF8TrUOBZXZVnx" type="github"><diagram id="-F4r_pLCxdT9_xOuNHFy">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-12T21:30:15.872Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="8Zok68ArVDiN7Y2hCmyo" version="12.2.4" type="github" pages="1">
+  <diagram id="-F4r_pLCxdT9_xOuNHFy" name="value-exchange">
+    <mxGraphModel dx="1186" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="eXCOzJGJGNelG3YfwQsJ-2" value="Soft Robotics&lt;br&gt;Developer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="290" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="eXCOzJGJGNelG3YfwQsJ-3" value="FlowIO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="290" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="eXCOzJGJGNelG3YfwQsJ-4" value="" style="ellipse;whiteSpace=wrap;html=1;direction=south;rotation=45;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="180" width="45" height="130" as="geometry"/>
+        </mxCell>
+        <mxCell id="eXCOzJGJGNelG3YfwQsJ-8" value="" style="ellipse;whiteSpace=wrap;html=1;direction=south;rotation=315;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="180" width="45" height="130" as="geometry"/>
+        </mxCell>
+        <mxCell id="eXCOzJGJGNelG3YfwQsJ-9" value="" style="ellipse;whiteSpace=wrap;html=1;direction=west;rotation=45;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="370" width="130" height="45" as="geometry"/>
+        </mxCell>
+        <mxCell id="eXCOzJGJGNelG3YfwQsJ-10" value="" style="ellipse;whiteSpace=wrap;html=1;direction=west;rotation=315;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="370" width="130" height="45" as="geometry"/>
+        </mxCell>
+        <mxCell id="eXCOzJGJGNelG3YfwQsJ-11" value="&lt;span&gt;- Standardized Platform&lt;/span&gt;&lt;br&gt;&lt;span&gt;- Idea showcasing&lt;/span&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="390" y="200" width="140" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="eXCOzJGJGNelG3YfwQsJ-12" value="Inputs" style="text;html=1;resizable=0;points=[];autosize=1;align=center;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="243" y="250" width="50" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="eXCOzJGJGNelG3YfwQsJ-13" value="Inputs" style="text;html=1;resizable=0;points=[];autosize=1;align=center;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="338" y="372.5" width="50" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="eXCOzJGJGNelG3YfwQsJ-14" value="Outputs" style="text;html=1;resizable=0;points=[];autosize=1;align=center;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="335" y="250" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="eXCOzJGJGNelG3YfwQsJ-15" value="Outputs" style="text;html=1;resizable=0;points=[];autosize=1;align=center;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="245" y="372.5" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="eXCOzJGJGNelG3YfwQsJ-16" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="eXCOzJGJGNelG3YfwQsJ-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="214" as="sourcePoint"/>
+            <mxPoint x="170" y="480" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eXCOzJGJGNelG3YfwQsJ-19" value="Community development &lt;br&gt;(actuator designs)" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="390" y="410" width="150" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="eXCOzJGJGNelG3YfwQsJ-20" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="eXCOzJGJGNelG3YfwQsJ-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="424" as="sourcePoint"/>
+            <mxPoint x="170" y="690" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
