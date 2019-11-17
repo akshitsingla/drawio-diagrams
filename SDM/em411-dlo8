@@ -1,11 +1,35 @@
-<mxfile host="www.draw.io" modified="2019-11-17T18:42:46.099Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="2o86rOxB7jm71gPb_0Dw" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-17T18:45:56.334Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="dm1a4EVrOApO1-OE4AO7" version="12.2.6" type="github" pages="1">
   <diagram id="D4h6O9Ib4GUlwB04UW-k" name="Page-1">
-    <mxGraphModel dx="988" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1395" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
         <mxCell id="nS72GVaCrSR-58RbViTp-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="80" width="1090" height="920" as="geometry"/>
+        </mxCell>
+        <mxCell id="nS72GVaCrSR-58RbViTp-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="nS72GVaCrSR-58RbViTp-2" target="nS72GVaCrSR-58RbViTp-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="590"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nS72GVaCrSR-58RbViTp-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="nS72GVaCrSR-58RbViTp-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="370" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nS72GVaCrSR-58RbViTp-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="nS72GVaCrSR-58RbViTp-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="360" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nS72GVaCrSR-58RbViTp-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="nS72GVaCrSR-58RbViTp-2" target="nS72GVaCrSR-58RbViTp-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="290"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="nS72GVaCrSR-58RbViTp-2" value="Business Environment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry y="160" width="120" height="60" as="geometry"/>
@@ -31,6 +55,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="nS72GVaCrSR-58RbViTp-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="nS72GVaCrSR-58RbViTp-4" target="nS72GVaCrSR-58RbViTp-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="390"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="nS72GVaCrSR-58RbViTp-4" value="Key Trends" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="70" y="360" width="120" height="60" as="geometry"/>
         </mxCell>
@@ -40,6 +71,13 @@
               <mxPoint x="210" y="490"/>
               <mxPoint x="210" y="190"/>
               <mxPoint x="860" y="190"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nS72GVaCrSR-58RbViTp-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="nS72GVaCrSR-58RbViTp-5" target="nS72GVaCrSR-58RbViTp-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="490"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -220,6 +258,15 @@
         <mxCell id="nS72GVaCrSR-58RbViTp-22" value="Company Vision&lt;br&gt;(Document)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="480" y="210" width="120" height="60" as="geometry"/>
         </mxCell>
+        <mxCell id="nS72GVaCrSR-58RbViTp-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="nS72GVaCrSR-58RbViTp-23" target="nS72GVaCrSR-58RbViTp-25">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="nS72GVaCrSR-58RbViTp-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="nS72GVaCrSR-58RbViTp-23" target="nS72GVaCrSR-58RbViTp-24">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="nS72GVaCrSR-58RbViTp-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="nS72GVaCrSR-58RbViTp-23" target="nS72GVaCrSR-58RbViTp-26">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="nS72GVaCrSR-58RbViTp-23" value="Key Decisions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="560" y="290" width="120" height="60" as="geometry"/>
         </mxCell>
@@ -256,12 +303,6 @@
         </mxCell>
         <mxCell id="nS72GVaCrSR-58RbViTp-29" value="Project Charter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="481" y="530" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="nS72GVaCrSR-58RbViTp-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="nS72GVaCrSR-58RbViTp-173" target="nS72GVaCrSR-58RbViTp-50">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="nS72GVaCrSR-58RbViTp-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="nS72GVaCrSR-58RbViTp-30" target="nS72GVaCrSR-58RbViTp-173">
-          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="nS72GVaCrSR-58RbViTp-30" value="Project Plan&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="480" y="603" width="120" height="80" as="geometry"/>
@@ -319,10 +360,8 @@
         <mxCell id="nS72GVaCrSR-58RbViTp-43" value="Launched" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="501" y="1050" width="80" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="nS72GVaCrSR-58RbViTp-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="nS72GVaCrSR-58RbViTp-44">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="780" as="targetPoint"/>
-          </mxGeometry>
+        <mxCell id="nS72GVaCrSR-58RbViTp-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="nS72GVaCrSR-58RbViTp-44" target="nS72GVaCrSR-58RbViTp-50">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="nS72GVaCrSR-58RbViTp-44" value="Project Closure Document" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="480" y="800" width="120" height="60" as="geometry"/>
@@ -338,6 +377,9 @@
         </mxCell>
         <mxCell id="nS72GVaCrSR-58RbViTp-48" value="Needs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="30" y="780" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="nS72GVaCrSR-58RbViTp-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="nS72GVaCrSR-58RbViTp-50" target="nS72GVaCrSR-58RbViTp-30">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="nS72GVaCrSR-58RbViTp-50" value="Project&lt;br&gt;Documents" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="480" y="706.5" width="120" height="60" as="geometry"/>
@@ -570,17 +612,17 @@
         <mxCell id="nS72GVaCrSR-58RbViTp-170" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="455" y="638" width="10" height="10" as="geometry"/>
         </mxCell>
-        <mxCell id="nS72GVaCrSR-58RbViTp-173" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#000000;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="536" y="690" width="10" height="10" as="geometry"/>
+        <mxCell id="nS72GVaCrSR-58RbViTp-191" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#000000;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="55" y="230" width="10" height="10" as="geometry"/>
         </mxCell>
-        <mxCell id="nS72GVaCrSR-58RbViTp-175" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#000000;direction=north;" vertex="1" parent="1">
+        <mxCell id="nS72GVaCrSR-58RbViTp-194" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#000000;direction=north;" vertex="1" parent="1">
           <mxGeometry x="535" y="780" width="10" height="10" as="geometry"/>
         </mxCell>
-        <mxCell id="nS72GVaCrSR-58RbViTp-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="nS72GVaCrSR-58RbViTp-50" target="nS72GVaCrSR-58RbViTp-175">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540.3333333333335" y="766.5" as="sourcePoint"/>
-            <mxPoint x="540.3333333333335" y="799.8333333333335" as="targetPoint"/>
-          </mxGeometry>
+        <mxCell id="nS72GVaCrSR-58RbViTp-197" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#000000;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="535" y="690" width="10" height="10" as="geometry"/>
+        </mxCell>
+        <mxCell id="nS72GVaCrSR-58RbViTp-201" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="539.5" y="315" width="10" height="10" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
