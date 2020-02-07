@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-07T16:48:12.092Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="QkLBOpfh97Rv9QOT41hc" version="12.6.6" type="github">
+<mxfile host="www.draw.io" modified="2020-02-07T16:53:22.100Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="-OyPXKrukuuQDnol8RMP" version="12.6.6" type="github">
   <diagram id="LsjaQXCuxTSA-X5bWDDz" name="Page-1">
     <mxGraphModel dx="1977" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -177,6 +177,9 @@
         </mxCell>
         <mxCell id="9fiTd-LStu6YDHyOzDXJ-70" value="Local Operations" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="390" width="110" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="9fiTd-LStu6YDHyOzDXJ-71" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=oval;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="9fiTd-LStu6YDHyOzDXJ-16" target="9fiTd-LStu6YDHyOzDXJ-19">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
