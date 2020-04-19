@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2020-04-19T17:25:03.083Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="XE8jQNFZivS1wBLsEeZO" version="12.9.14" type="github" pages="2">
-  <diagram id="C5RBs43oDa-KdzZeNtuy" name="high-level-flow">
+<mxfile host="app.diagrams.net" modified="2020-04-19T18:11:00.019Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="GGoJg6-UorlZxgh4VFua" version="12.9.14" type="github" pages="2">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="functional-flow">
     <mxGraphModel dx="1186" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -130,12 +130,12 @@
           <mxGeometry x="200" y="160" width="840" height="560" as="geometry" />
         </mxCell>
         <mxCell id="kZeO93wEWa5Hp8gRSUIS-3" value="github.com" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="kZeO93wEWa5Hp8gRSUIS-1">
-          <mxGeometry x="600" y="20" width="120" height="40" as="geometry" />
+          <mxGeometry x="620" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kZeO93wEWa5Hp8gRSUIS-5" value="module_wrappers" style="shape=umlFrame;whiteSpace=wrap;html=1;fillColor=#ffffff;width=110;height=30;" vertex="1" parent="kZeO93wEWa5Hp8gRSUIS-1">
           <mxGeometry x="220" y="180" width="200" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="kZeO93wEWa5Hp8gRSUIS-6" value="configs" style="shape=umlFrame;whiteSpace=wrap;html=1;fillColor=#ffffff;width=110;height=30;" vertex="1" parent="kZeO93wEWa5Hp8gRSUIS-1">
+        <mxCell id="kZeO93wEWa5Hp8gRSUIS-6" value="configs_secrets" style="shape=umlFrame;whiteSpace=wrap;html=1;fillColor=#ffffff;width=110;height=30;" vertex="1" parent="kZeO93wEWa5Hp8gRSUIS-1">
           <mxGeometry x="820" y="380" width="200" height="320" as="geometry" />
         </mxCell>
         <mxCell id="kZeO93wEWa5Hp8gRSUIS-7" value="helpers" style="shape=umlFrame;whiteSpace=wrap;html=1;fillColor=#ffffff;width=110;height=30;" vertex="1" parent="kZeO93wEWa5Hp8gRSUIS-1">
@@ -145,7 +145,7 @@
           <mxGeometry x="460" y="180" width="560" height="160" as="geometry" />
         </mxCell>
         <mxCell id="kZeO93wEWa5Hp8gRSUIS-9" value="apigee" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="kZeO93wEWa5Hp8gRSUIS-1">
-          <mxGeometry x="680" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="840" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kZeO93wEWa5Hp8gRSUIS-10" value="index.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kZeO93wEWa5Hp8gRSUIS-1">
           <mxGeometry x="580" y="420" width="80" height="40" as="geometry" />
@@ -161,6 +161,42 @@
         </mxCell>
         <mxCell id="lh297mGfHfSd8Np4UGiA-3" value="kill.js" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="kZeO93wEWa5Hp8gRSUIS-1">
           <mxGeometry x="440" y="480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vQzWhnNJH2lwKuvtG3Qd-0" value="github-configs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="kZeO93wEWa5Hp8gRSUIS-1">
+          <mxGeometry x="860" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vQzWhnNJH2lwKuvtG3Qd-1" value="github-secrets&lt;span style=&quot;font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22github-configs%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23ffffff%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22860%22%20y%3D%22440%22%20width%3D%22120%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="kZeO93wEWa5Hp8gRSUIS-1">
+          <mxGeometry x="860" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vQzWhnNJH2lwKuvtG3Qd-2" value="apigee-configs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="kZeO93wEWa5Hp8gRSUIS-1">
+          <mxGeometry x="860" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vQzWhnNJH2lwKuvtG3Qd-3" value="apigee-secrets" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="kZeO93wEWa5Hp8gRSUIS-1">
+          <mxGeometry x="860" y="620" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ro5rEWEzcL1gkrC1c98V-0" value="repositories_&lt;br&gt;fetcher.js" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="kZeO93wEWa5Hp8gRSUIS-1">
+          <mxGeometry x="560" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0zWOLMHMZIkcySxd2yA-0" value="credentials_&lt;br&gt;lookup.js" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="kZeO93wEWa5Hp8gRSUIS-1">
+          <mxGeometry x="680" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qKl6eib2ubARxyKWfQ4B-0" value="user_&lt;br&gt;lookup.js" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="kZeO93wEWa5Hp8gRSUIS-1">
+          <mxGeometry x="800" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9eR2eR0qheO8Ptjl9cEF-1" value="email_&lt;br&gt;generator.js" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="kZeO93wEWa5Hp8gRSUIS-1">
+          <mxGeometry x="660" y="560" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9eR2eR0qheO8Ptjl9cEF-2" value="email_&lt;br&gt;sender.js" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="kZeO93wEWa5Hp8gRSUIS-1">
+          <mxGeometry x="260" y="440" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kMTEYdM0o7CStVibkVVo-0" value="cron_&lt;br&gt;generator.js" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="kZeO93wEWa5Hp8gRSUIS-1">
+          <mxGeometry x="520" y="560" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4-8ZYFpMefKiVXRQMuu0-0" value="repository_&lt;br&gt;fetcher.js" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="kZeO93wEWa5Hp8gRSUIS-1">
+          <mxGeometry x="560" y="280" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ucc02RemQwulaI59TXN-0" value="credentials_&lt;br&gt;lookup.js" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="kZeO93wEWa5Hp8gRSUIS-1">
+          <mxGeometry x="800" y="280" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
