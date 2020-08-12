@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2020-08-12T08:23:29.305Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="z9zb5kKHy4mwfWLHplvX" version="13.6.2" type="github">
-  <diagram id="lAhkgHNQmAlNBPGiXA3x" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2020-08-12T08:40:06.044Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="ygbAzXrbBP97bofO2wGP" version="13.6.2" type="github" pages="2">
+  <diagram id="lAhkgHNQmAlNBPGiXA3x" name="organizations">
     <mxGraphModel dx="1298" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -64,6 +64,66 @@
         </mxCell>
         <mxCell id="dJrL5NncOdEJ4gmEwWmQ-9" value="Privately Operated" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8bC1gI_NBDHKhFbOLIyg" name="system-value">
+    <mxGraphModel dx="1082" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="wHfF8NcMfXCmUCM5gEdj-0" />
+        <mxCell id="wHfF8NcMfXCmUCM5gEdj-1" parent="wHfF8NcMfXCmUCM5gEdj-0" />
+        <mxCell id="wHfF8NcMfXCmUCM5gEdj-13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="wHfF8NcMfXCmUCM5gEdj-1">
+          <mxGeometry x="270" y="500" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wHfF8NcMfXCmUCM5gEdj-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="wHfF8NcMfXCmUCM5gEdj-1">
+          <mxGeometry x="270" y="520" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wHfF8NcMfXCmUCM5gEdj-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="wHfF8NcMfXCmUCM5gEdj-1">
+          <mxGeometry x="270" y="480" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wHfF8NcMfXCmUCM5gEdj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="wHfF8NcMfXCmUCM5gEdj-1" source="wHfF8NcMfXCmUCM5gEdj-2" target="wHfF8NcMfXCmUCM5gEdj-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wHfF8NcMfXCmUCM5gEdj-2" value="Private Non-Profit Organizations providing educational services to kids from underserved households in rural/sub-urban India" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="wHfF8NcMfXCmUCM5gEdj-1">
+          <mxGeometry x="160" y="280" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wHfF8NcMfXCmUCM5gEdj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;startArrow=block;startFill=1;" edge="1" parent="wHfF8NcMfXCmUCM5gEdj-1" source="wHfF8NcMfXCmUCM5gEdj-3" target="wHfF8NcMfXCmUCM5gEdj-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wHfF8NcMfXCmUCM5gEdj-3" value="Improved utilization of relationships with target audience" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="wHfF8NcMfXCmUCM5gEdj-1">
+          <mxGeometry x="160" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wHfF8NcMfXCmUCM5gEdj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;startArrow=block;startFill=1;" edge="1" parent="wHfF8NcMfXCmUCM5gEdj-1" source="wHfF8NcMfXCmUCM5gEdj-4" target="wHfF8NcMfXCmUCM5gEdj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wHfF8NcMfXCmUCM5gEdj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="wHfF8NcMfXCmUCM5gEdj-1" source="wHfF8NcMfXCmUCM5gEdj-4" target="wHfF8NcMfXCmUCM5gEdj-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wHfF8NcMfXCmUCM5gEdj-4" value="Make Available" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="wHfF8NcMfXCmUCM5gEdj-1">
+          <mxGeometry x="360" y="580" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wHfF8NcMfXCmUCM5gEdj-5" value="Build /&lt;br&gt;Facilitate Collaboration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wHfF8NcMfXCmUCM5gEdj-1">
+          <mxGeometry x="360" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wHfF8NcMfXCmUCM5gEdj-6" value="Re-usable relationships with target audience" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wHfF8NcMfXCmUCM5gEdj-1">
+          <mxGeometry x="360" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wHfF8NcMfXCmUCM5gEdj-16" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="wHfF8NcMfXCmUCM5gEdj-1">
+          <mxGeometry x="205" y="420" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wHfF8NcMfXCmUCM5gEdj-18" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;fillColor=#050505;" vertex="1" parent="wHfF8NcMfXCmUCM5gEdj-1">
+          <mxGeometry x="211.25" y="428.75" width="17.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wHfF8NcMfXCmUCM5gEdj-19" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="wHfF8NcMfXCmUCM5gEdj-1">
+          <mxGeometry x="405" y="680" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wHfF8NcMfXCmUCM5gEdj-20" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;fillColor=#050505;" vertex="1" parent="wHfF8NcMfXCmUCM5gEdj-1">
+          <mxGeometry x="411.25" y="688.75" width="17.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
