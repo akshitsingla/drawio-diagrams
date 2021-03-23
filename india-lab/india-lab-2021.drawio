@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T13:41:45.196Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="4BPNR73EB5X6W9SJEV2C" version="13.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-23T13:42:04.516Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="mfUd-px9-PQlQ8vjk6ib" version="13.6.2" type="github" pages="3">
   <diagram id="8kKWbMw9pSqV0C8SBLqy" name="Indian-Cities">
     <mxGraphModel dx="1298" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -317,6 +317,14 @@
         <mxCell id="tGWvKv2f_1cZI7tXwJuk-41" value="Employment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="s4hwWxdY0nRDQfcN49-O-1">
           <mxGeometry x="160" y="360" width="120" height="40" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="sBTlVuEhzaKXMrmpuu7z" name="Indian-Rural-Roles">
+    <mxGraphModel dx="1298" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="jpQSbtkV8NuHZ-qbk9-i-0" />
+        <mxCell id="jpQSbtkV8NuHZ-qbk9-i-1" parent="jpQSbtkV8NuHZ-qbk9-i-0" />
       </root>
     </mxGraphModel>
   </diagram>
