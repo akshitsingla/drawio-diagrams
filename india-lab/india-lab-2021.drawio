@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T15:39:04.099Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="wWIOOpYbuZGDPsGwUsFH" version="13.6.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-03-23T15:41:20.800Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="JTMkWgJJQCDOTICW1stN" version="13.6.2" type="github" pages="6">
   <diagram id="rNaGF3p6aFDAruF3l6WY" name="STL">
     <mxGraphModel dx="1298" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -629,6 +629,12 @@
         <mxCell id="FCL7Du5zxGU7a6VWFBSg-19" value="Salaried&lt;br&gt;(Low-Risk)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jpQSbtkV8NuHZ-qbk9-i-1">
           <mxGeometry x="480" y="320" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="uFQLs3NuL65UAVoRL9QO-0" value="Academic Researchers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jpQSbtkV8NuHZ-qbk9-i-1">
+          <mxGeometry x="560" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uFQLs3NuL65UAVoRL9QO-1" value="Inter-Govt Organizations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jpQSbtkV8NuHZ-qbk9-i-1">
+          <mxGeometry x="560" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -811,6 +817,20 @@
         </mxCell>
         <mxCell id="UCFHv3ZBxTNfowR8bLMH-58" value="Platform / Backend Whitelabelling" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="UEoxn_zkBpDpVBeyoHiY-1">
           <mxGeometry x="160" y="-560" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="dnzQ1vzYBerqFPrG7gAd" name="Misc">
+    <mxGraphModel dx="1298" dy="1913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="_lGVkH7mcdOfNL_rrzqz-0" />
+        <mxCell id="_lGVkH7mcdOfNL_rrzqz-1" parent="_lGVkH7mcdOfNL_rrzqz-0" />
+        <mxCell id="zveFANN2Misu0vJUL7SJ-0" value="Industry" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_lGVkH7mcdOfNL_rrzqz-1">
+          <mxGeometry x="80" y="-1040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zveFANN2Misu0vJUL7SJ-1" value="Digital" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_lGVkH7mcdOfNL_rrzqz-1">
+          <mxGeometry x="120" y="-960" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
