@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T13:03:24.178Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="m-HV67Tmp2CvVJ8rXGCq" version="13.6.2" type="github">
-  <diagram id="8kKWbMw9pSqV0C8SBLqy" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2021-03-23T13:04:22.804Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="EncUueFV9ZDxFi8hm6IG" version="13.6.2" type="github">
+  <diagram id="8kKWbMw9pSqV0C8SBLqy" name="Indian-Cities">
     <mxGraphModel dx="1298" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -26,7 +26,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DS4k8uAIzJZxYumFX1fF-1" value="Indian Cities" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DS4k8uAIzJZxYumFX1fF-1" value="&lt;a href=&quot;https://en.wikipedia.org/wiki/Classification_of_Indian_cities&quot;&gt;Indian Cities&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DS4k8uAIzJZxYumFX1fF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DS4k8uAIzJZxYumFX1fF-2" target="DS4k8uAIzJZxYumFX1fF-11">
@@ -59,13 +59,13 @@
         <mxCell id="DS4k8uAIzJZxYumFX1fF-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DS4k8uAIzJZxYumFX1fF-5" target="DS4k8uAIzJZxYumFX1fF-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DS4k8uAIzJZxYumFX1fF-5" value="Rural&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22India%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22360%22%20y%3D%22240%22%20width%3D%22120%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DS4k8uAIzJZxYumFX1fF-5" value="Rural&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22India%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22360%22%20y%3D%22240%22%20width%3D%22120%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="680" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DS4k8uAIzJZxYumFX1fF-6" value="Tier 6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DS4k8uAIzJZxYumFX1fF-6" value="Tier 6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="760" y="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DS4k8uAIzJZxYumFX1fF-7" value="Tier 5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DS4k8uAIzJZxYumFX1fF-7" value="Tier 5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="760" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DS4k8uAIzJZxYumFX1fF-8" value="Tier 4&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22India%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22360%22%20y%3D%22240%22%20width%3D%22120%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -79,9 +79,6 @@
         </mxCell>
         <mxCell id="DS4k8uAIzJZxYumFX1fF-11" value="Tier 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="320" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="DS4k8uAIzJZxYumFX1fF-23" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=none;dashed=1;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="750" y="310" width="140" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
