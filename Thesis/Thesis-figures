@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T13:46:26.699Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="hi23G0ePcCU1Ic_-12qd" version="20.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-15T13:48:32.794Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="ZUM-H1ALSvgvtX61blkO" version="20.1.1" type="github" pages="3">
   <diagram id="ax6glsIE4njKhK-4IkQe" name="Digital-form">
     <mxGraphModel dx="696" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -236,6 +236,29 @@
         </mxCell>
         <mxCell id="T9djlTxhfdkFrf8XD81O-19" value="&lt;b&gt;Examples: &lt;br&gt;&lt;/b&gt;Watching videos, listening to music, etc." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="440" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="f0Ua5-LLwc1KbFFvshp4" name="Boundary">
+    <mxGraphModel dx="696" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hmwgHNMJkuH0JgZGWPsh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="cFWUQfRQEbLaqXfHC3Lq-1" target="hmwgHNMJkuH0JgZGWPsh-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hmwgHNMJkuH0JgZGWPsh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="cFWUQfRQEbLaqXfHC3Lq-1" target="hmwgHNMJkuH0JgZGWPsh-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cFWUQfRQEbLaqXfHC3Lq-1" value="Digital Economy&lt;br&gt;(Online Applications)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hmwgHNMJkuH0JgZGWPsh-1" value="General Purpose" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hmwgHNMJkuH0JgZGWPsh-2" value="Beneficiary / Context specific" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
