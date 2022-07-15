@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T13:48:32.794Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="ZUM-H1ALSvgvtX61blkO" version="20.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-15T13:58:47.663Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="7vLHlUXMIGIvJ3oN7Qux" version="20.1.1" type="github" pages="4">
   <diagram id="ax6glsIE4njKhK-4IkQe" name="Digital-form">
     <mxGraphModel dx="696" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -259,6 +259,35 @@
         </mxCell>
         <mxCell id="hmwgHNMJkuH0JgZGWPsh-2" value="Beneficiary / Context specific" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fIFUq_QwFqwJOBXn4jTo" name="Metrics">
+    <mxGraphModel dx="696" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EW64ofATbCvoHqyabJzV-1" value="Relevance" style="triangle;direction=south;html=1;strokeWidth=4;fillColor=#F2931E;strokeColor=#ffffff;shadow=0;fontSize=10;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;spacing=10;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="190" y="130" width="350" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="EW64ofATbCvoHqyabJzV-2" value="Feasibility" style="triangle;direction=south;html=1;strokeWidth=4;fillColor=#F8C382;strokeColor=#ffffff;shadow=0;fontSize=10;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;spacing=10;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="215" y="185" width="300" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="EW64ofATbCvoHqyabJzV-3" value="Availability" style="triangle;direction=south;html=1;strokeWidth=4;fillColor=#FCE7CD;strokeColor=#ffffff;shadow=0;fontSize=10;fontColor=#000000;align=center;fontStyle=0;whiteSpace=wrap;spacing=10;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="240" y="235" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="EW64ofATbCvoHqyabJzV-4" value="Usability" style="triangle;direction=south;html=1;strokeWidth=4;fillColor=#BAC8D3;strokeColor=#ffffff;shadow=0;fontSize=10;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;spacing=10;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="265" y="285" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="EW64ofATbCvoHqyabJzV-5" value="Affordability" style="triangle;direction=south;html=1;strokeWidth=4;fillColor=#5D7F99;strokeColor=#ffffff;shadow=0;fontSize=10;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;spacing=10;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="290" y="335" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="EW64ofATbCvoHqyabJzV-6" value="Intent" style="triangle;direction=south;html=1;strokeWidth=4;fillColor=#2F5B7C;strokeColor=#ffffff;shadow=0;fontSize=10;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;spacing=10;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="315" y="390" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EW64ofATbCvoHqyabJzV-7" value="Usage" style="triangle;direction=south;html=1;strokeWidth=4;fillColor=#23445D;strokeColor=#ffffff;shadow=0;fontSize=8;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;spacing=10;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="340" y="440" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
